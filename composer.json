@@ -1,0 +1,8 @@
+{
+    "name": "onlyfans-subscription-apk/onlyfans-accounts-usernames",
+    "description": "Link below for Onlyfans Premium Accounts >>>",
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    }
+}
